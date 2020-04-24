@@ -1,0 +1,6 @@
+framework module Pods_TensorFlowLiteObjcDemoTests {
+  umbrella header "Pods-TensorFlowLiteObjcDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
